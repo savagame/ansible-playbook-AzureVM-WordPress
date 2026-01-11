@@ -1,8 +1,7 @@
 # ansible-playbook-AzureVM-WordPress
 
-```
 I am using Microsoft Azure, and targeting this provider as it allows me to launch virtual machines and interact with them without having too much configuration overhead.
-```
+
 
 ```
 ansible-galaxy collection install azure.azcollection
